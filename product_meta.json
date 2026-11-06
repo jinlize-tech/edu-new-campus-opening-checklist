@@ -1,0 +1,24 @@
+{
+  "number": 96,
+  "product_id": "JLZ-EDU-SK-078",
+  "chinese_name": "新校区开办清单",
+  "english_name": "New Campus Opening Checklist",
+  "repository_name": "edu-new-campus-opening-checklist",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-new-campus-opening-checklist-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "校区定位、面积、班级数、人员、资质准备、设备、消防/安全、预算和开业节点",
+  "main_output": "开办清单、责任矩阵、里程碑、证据要求、风险项和验收口径",
+  "package_entries": [
+    "edu-new-campus-opening-checklist/SKILL.md",
+    "edu-new-campus-opening-checklist/references/DOMAIN_GUIDE.md",
+    "edu-new-campus-opening-checklist/references/EXAMPLES.md",
+    "edu-new-campus-opening-checklist/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
